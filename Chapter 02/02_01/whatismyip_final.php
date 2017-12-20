@@ -8,6 +8,7 @@
     	margin: 0;
     	padding: 0;
       background: #DFCC89;
+      font: 25px;
     }
     #main-content {
       margin: 30px;
